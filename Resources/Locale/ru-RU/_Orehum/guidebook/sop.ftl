@@ -45,29 +45,29 @@ guide-entry-sop-permabrig = Пермабриг
 guide-entry-sop-punishments = Наказания
 guide-entry-sop-searches = Поиски
 # - Cargo
-guide-entry-sop-cargotech = Карго Техника
-guide-entry-sop-salvage = Специалист По Спасению Имущества
+guide-entry-sop-cargotech = Карготехник
+guide-entry-sop-salvage = Утилизация
 # - Command
 guide-entry-sop-captain = Капитан
 guide-entry-sop-hop = Глава Персонала
 guide-entry-sop-hos = Глава Службы Безопасности
 # Mystagogue changed by Delta-V (original: Research Director)
-guide-entry-sop-mg = Мистагог
+guide-entry-sop-mg = Научный руководитель
 guide-entry-sop-cmo = Главный Врач
 guide-entry-sop-ce = Старший Инженер
 # Logistics Officer changed by Delta-V (original: Quartermaster)
 guide-entry-sop-lo = Квартирмейстер
 # - Dignitary
-guide-entry-sop-bso = Офицер Синего Щита
+guide-entry-sop-bso = Офицер "Синий Щит"
 guide-entry-sop-ntr = Представитель NT
 guide-entry-sop-magistrate = Магистрат
 # - Engineering
 guide-entry-sop-atmostech = Атмосферный Техник
-guide-entry-sop-stationengineer = Станционный Инженер
+guide-entry-sop-stationengineer = Инженер
 # - Epistemics
-guide-entry-sop-cataloguer = Составитель каталога
+guide-entry-sop-cataloguer = Библиотекарь
 guide-entry-sop-chaplain = Священник
-guide-entry-sop-golemancer = Големант
+guide-entry-sop-golemancer = Робототехник
 guide-entry-sop-mantis = Мантис
 guide-entry-sop-researcher = Учёный
 guide-entry-sop-sacrifices = Принесение в жертву

@@ -1,6 +1,6 @@
 # Interactions here don't have target popups because the target is always the user itself.
 # Why would you do this?
-interaction-PinchSelf-name = Ущипни себя
+interaction-PinchSelf-name = Ущипнуть себя
 interaction-PinchSelf-description = Говорят, это помогает тебе убедиться, что ад, который творится вокруг тебя, - это не сон.
 interaction-PinchSelf-success-self-popup = Ты ущепнул себя... Ой!
 interaction-PinchSelf-success-others-popup = {THE($user)} Ущипывает {REFLEXIVE($user)}... Выглядит болезненно!

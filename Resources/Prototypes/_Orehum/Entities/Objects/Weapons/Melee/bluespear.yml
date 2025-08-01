@@ -28,7 +28,7 @@
         friction: 0.2
   - type: Sharp
   - type: Sprite
-    sprite: Objects/Weapons/Melee/bluespear.rsi
+    sprite: _Orehum/Objects/Weapons/Melee/bluespear.rsi
     layers:
     - state: spear
     - state: spear1
@@ -126,4 +126,3 @@
     equippedFillBaseName: -fill-
     equippedMaxFillLevels: 2
   - type: ThrowableBlocked # Goobstation
-  - type: UndetectableContraband #Goobstation-Contraband detector
