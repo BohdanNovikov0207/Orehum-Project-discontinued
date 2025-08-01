@@ -1,32 +1,28 @@
 <Document>
-  # Trespassing (T)
-  Trespassing, also referring to Breaking and Entering (which is inherently trespassing), is a crime with several tiers depending on where the individual
-  trespassed and how secure the location is.
+# Проникновение без разрешения (T)
 
-  ## Trespassing (Non-Secure)
-  Trespassing in non-secure locations, such as departments that you do not have access/permission to enter, is a minor crime that can usually be let off with
-  no charge depending on the severity of any tangent crimes committed.
+Проникновение без разрешения, также называемое взломом и проникновением (включающим в себя само проникновение), делится на несколько уровней в зависимости от того, куда проник человек и насколько охраняется эта зона.
 
-  This is something issued with discretion and can be pressed by Department members or members of authority that wish to press the charge due
-  to the effect it had on them.
-  - To be in an area which a person has either not purposefully been admitted to, does not have access,
-  or has been asked to leave by someone who has access to that area.
+## Проникновение в неохраняемые зоны
 
-  ## Trespassing Secure
-  Trespassing in Secure Areas (primarily areas where Security has access to and others do not, but is not explicitly this definition) is a crime that should
-  be punished but may be lessened to a minor crime if deemed as such with discretion.
+Проникновение в неохраняемые зоны, такие как отделы, куда у человека нет разрешения или доступа, считается мелким правонарушением, за которое в большинстве случаев не выносится наказание, если не было сопутствующих преступлений.
 
-  Areas that this includes tend to be Chemistry, Atmopsherics, Security (not including Armory, which is next severity level), and Anomaly Generation.
-  - Trespassing in an area which may lead to the injury of self, or others. This also includes areas like security or
-  general command areas which do not contain any sensitive items or consoles.
+Такое нарушение может преследоваться по усмотрению представителей соответствующего отдела или уполномоченных лиц, которые пострадали от данного действия.
+- Находиться в месте, куда человек не был допущен, не имеет доступа, или был попросен покинуть это место уполномоченным лицом.
 
-  ## Trespassing High Secure
-  Trespassing High Secure is trespassing in areas that are limited only to Security and Command personnel with higher levels of access.
-  This is a definite punishment that cannot be lowered by normal circumstances.
+## Проникновение в охраняемые зоны
 
-  This includes areas like the Vault, Bridge, any Command Personnel's room, Armory, Warden, Permanent Bridge, and any area specifically locked to
-  Command Personnel.
-  - Trespassing in any of the following without appropriate permission or access: Command areas, Personal offices, Weapons storage, weapon production,
-  explosive storage, explosive production, or other high security areas.
+Проникновение в охраняемые зоны (как правило, места, доступные сотрудникам Службы Безопасности и закрытые для остальных, хотя точные определения могут варьироваться) считается преступлением, которое должно караться, но наказание может быть смягчено при рассмотрении обстоятельств.
+
+К таким зонам относятся, например, химическая лаборатория, атмосферные отделы, служба безопасности (за исключением арсенала, который имеет более высокий уровень защиты) и генерация аномалий.
+- Проникновение в зоны, где можно навредить себе или другим, а также в охраняемые зоны службы безопасности или командные помещения без доступа.
+
+## Проникновение в особо охраняемые зоны
+
+Проникновение в особо охраняемые зоны — это проникновение в места, доступные только сотрудникам службы безопасности и командованию с высоким уровнем допуска. Наказание за такое нарушение обязательно и не подлежит смягчению.
+
+К таким зонам относятся: хранилище, мостик, комнаты командного состава, арсенал, кабинет главы службы безопасности, пермабриг и другие зоны с ограниченным доступом только для командного состава.
+- Проникновение в командные помещения, личные кабинеты, оружейные хранилища, места производства оружия, хранения и производства взрывчатых веществ или другие высокозащищённые зоны без соответствующего разрешения.
 
 </Document>
+

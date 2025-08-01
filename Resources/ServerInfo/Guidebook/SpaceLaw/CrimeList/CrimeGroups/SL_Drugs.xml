@@ -1,19 +1,17 @@
 <Document>
-  # Drug Possession and Distribution (D)
-  Drug Possession and Drug Distribution are two separate crimes that cannot be stackable. If the offender is distributing drugs, they take
-  the higher severity offense, Drug Distribution.
+# Владение и Распространение Наркотиков (D)
 
-  ## Drug Possession
-  Drug Possession is specifically the carrying of chemicals, substances, and/or any other drug-like entity in large quantities.
-  - To make, hold, or abuse restricted drugs or chemicals.
+Владение наркотиками и их распространение — два отдельных преступления, которые не могут суммироваться. Если нарушитель занимается распространением, применяется более тяжкая статья — распространение наркотиков.
 
-  ## Illegal Distribution (Drugs)
-  Illegal Distribution is the distribution of a large quantity of drugs that are considered narcotics or do not serve a purpose outside
-  of the medical bay or medicinal purposes. These can and should extend to drugs that are considered contrband as well.
+## Владение наркотиками
+Владение наркотиками означает хранение химикатов, веществ и/или других наркотикоподобных веществ в больших количествах.
+- Производство, хранение или злоупотребление запрещёнными наркотиками или химикатами.
 
-  For further processing, this extends to willingly giving out drugs or equipment that can produce drugs in large quantities.
-  - This does not extend to a few pills or the likes that can be used recreationally. The exception being if the "recreational" use is violent in nature or
-  harmful to crewmembers.
-  - The possession of dangerous or illegal drugs/equipment in a quantity greater than that which is reasonable for personal consumption.
+## Незаконное распространение (Наркотики)
+Незаконное распространение — это передача больших количеств наркотиков, которые считаются наркотическими или не имеют медицинского назначения вне медотдела.
+- Включает добровольное распространение наркотиков или оборудования для их массового производства.
+- Не распространяется на несколько таблеток для рекреационного использования, если только их использование не является насильственным или вредоносным для экипажа.
+- Владение опасными или запрещёнными наркотиками/оборудованием в количестве, превышающем разумное для личного употребления.
 
 </Document>
+

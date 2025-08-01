@@ -1,14 +1,12 @@
 <Document>
-  # Trials and Trial Procedures
-  Trials are held for numerous reasons in NanoTrasen and their stations. These trials tend to be for rulebreaks, violations of Space Law, and other
-  means. For the purposes of this section, these Trials will cover the proper procedures that should be followed for violations of Space Law and trials
-  held for declaring permanent brigging, executions, and/or potential releases from permanent brigging.
+# Судебные Разбирательства и Процедуры Судебных Заседаний
 
-  ## Policies
-  There are several policies that Trials cover, and these are declared in the following entries below, going more in-depth with what they cover
-  and how they should be worked with.
-  - [textlink="Escalation of Prisoner Sentence Policy" link="EscalationPolicy SpaceLaw"]
-  - [textlink="Trial Procedure Policy" link="TrialPolicy SpaceLaw"]
-  - [textlink="Prisoner Trial Request Policy" link="PrisonerRequest SpaceLaw"]
+Судебные разбирательства проводятся по различным причинам в корпорации NanoTrasen и на их станциях. Эти процессы, как правило, касаются нарушений правил, нарушений Космического Закона (Space Law) и других случаев. В данном разделе описываются правильные процедуры, которые должны соблюдаться при рассмотрении дел о нарушениях Космического Закона, а также при судебных разбирательствах по вопросам постоянного заключения (permanent brigging), казней (executions) и возможного освобождения от постоянного заключения.
 
+## Политики
+Существует несколько политик, связанных с судебными процессами, которые раскрываются в следующих разделах с более подробным описанием их содержания и способов применения:
+- [textlink="Политика Эскалации Приговора Заключённого" link="EscalationPolicy SpaceLaw"]
+- [textlink="Политика Процедур Судебного Разбирательства" link="TrialPolicy SpaceLaw"]
+- [textlink="Политика Запросов Заключённых на Судебные Разбирательства" link="PrisonerRequest SpaceLaw"]
 </Document>
+

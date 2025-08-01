@@ -1,31 +1,29 @@
 <Document>
-  # Restricted Gear - Contraband
-  There are tiers of restricted gear, mostly ranging from Security Personnel to ERT and Central Command personnel, but some gear is allowed for
-  certain jobs, such as Bartender. These sections are sorted.
+  # Ограниченное снаряжение — Контрабанда
+  Существует несколько уровней ограниченного снаряжения, в основном предназначенного для сотрудников службы безопасности, ERT и Центрального Командования. Однако некоторые виды снаряжения разрешены для определённых профессий, например, барменов. Ниже приведена классификация.
 
-  ## Uncategorized (Illegal) Gear
-  This gear is considered illegal by all means, and is only ever allowed during station alerts when defending against foreign invaders, and should
-  be turned over to Security afterwards.
-  - [color=#cb0000]\[None\][/color] Unauthorized PDA software, such as uplinks and spyware.
-  - [color=#cb0000]\[None\][/color] Ammunition or explosives not issued by NanoTrasen.
-  - [color=#cb0000]\[None\][/color] Body armor or tactical suits unauthorized for use by crew roles.
-  - [color=#cb0000]\[None\][/color] Communication equipment designed to intercept, decrypt, or bypass corporate channels.
-  - [color=#cb0000]\[None\][/color] Terrorist paraphernalia, including items with clear indicators of association with hostile organizations.
+  ## Некатегоризированное (Нелегальное) снаряжение
+  Это снаряжение считается полностью незаконным и разрешается использовать только во время тревог станции при отражении атак внешних захватчиков. После этого оно должно быть передано службе безопасности.
+  - [color=#cb0000]\[Нет\][/color] Неавторизованное ПО для КПК, включая аплинки и шпионские программы.
+  - [color=#cb0000]\[Нет\][/color] Боеприпасы или взрывчатка, не выданные NanoTrasen.
+  - [color=#cb0000]\[Нет\][/color] Бронежилеты или тактические костюмы, не разрешённые для использования членами экипажа.
+  - [color=#cb0000]\[Нет\][/color] Средства связи, предназначенные для перехвата, расшифровки или обхода корпоративных каналов.
+  - [color=#cb0000]\[Нет\][/color] Террористская атрибутика, включая предметы с явными признаками принадлежности к враждебным организациям.
 
-  ## Categorized (Semi-Legal) Gear
-  This gear is considered illegal when handled without permits or by personnel that are not associated with these jobs and/or departments.
-  - [color=#cb0000]\[ERT/Central Command\][/color] Equipment and clothing exclusive to Emergency Response Teams (ERT) or Central Command personnel.
-  - [color=#cb0000]\[Command\][/color] Command-level clothing and equipment, including headsets with encrypted channels or access overlays.
-  - [color=#cb0000]\[Security\][/color] Security clothing, protective gear, and equipment that would be found in Security and/or the Armory.
-  - [color=#cb0000]\[Security\][/color] Less-than-lethal and non-lethal weaponry, excluding general-purpose disablers and beanbag shotguns.
-  - [color=#cb0000]\[Security\][/color] Flash technology (e.g., flashbang grenades, flash projectors), excluding handheld flashes.
-  - [color=#cb0000]\[Security\][/color] Helmets, riot shields, and ballistic shields.
-  - [color=#cb0000]\[Security\][/color] Security HUDs and restraining gear (e.g., handcuffs).
-  - [color=#cb0000]\[Security/Command\][/color] Disablers and restraining gear used by authorized personnel.
-  - [color=#cb0000]\[Security/Command\][/color] Security HUDs.
-  - [color=#cb0000]\[Security/Command/Bartender\][/color] Protective vests and chest rigs designed to mitigate damage from projectiles or blunt force.
-  - [color=#cb0000]\[Security/Bartender\][/color] Beanbag shotguns (Bartenders must follow SOP).
-  - [color=#cb0000]\[Security/Science/Command\][/color] Handheld flashes.
-  - [color=#cb0000]\[Engineering\][/color] Engineering goggles, and Rapid Construction Devices.
-
+  ## Категоризированное (Условно легальное) снаряжение
+  Это снаряжение считается незаконным при использовании без соответствующих разрешений или лицами, не относящимися к указанным профессиям и/или отделам.
+  - [color=#cb0000]\[ERT/Центральное Командование\][/color] Экипировка и одежда, предназначенные исключительно для групп экстренного реагирования (ERT) или Центрального Командования.
+  - [color=#cb0000]\[Командование\][/color] Одежда и оборудование уровня командования, включая гарнитуры с зашифрованными каналами или модули доступа.
+  - [color=#cb0000]\[Безопасность\][/color] Форма службы безопасности, защитное снаряжение и оборудование, находящееся в арсенале или отделе безопасности.
+  - [color=#cb0000]\[Безопасность\][/color] Нелетальное и малолетальное оружие, за исключением универсальных дизейблеров и дробовиков с резиновыми пулями.
+  - [color=#cb0000]\[Безопасность\][/color] Светошумовые технологии (например, гранаты, проекторы), за исключением ручных вспышек.
+  - [color=#cb0000]\[Безопасность\][/color] Шлемы, щиты для подавления беспорядков и баллистические щиты.
+  - [color=#cb0000]\[Безопасность\][/color] Очки HUD службы безопасности и средства сдерживания (например, наручники).
+  - [color=#cb0000]\[Безопасность/Командование\][/color] Дизейблеры и средства сдерживания, используемые уполномоченными лицами.
+  - [color=#cb0000]\[Безопасность/Командование\][/color] Очки HUD службы безопасности.
+  - [color=#cb0000]\[Безопасность/Командование/Бармен\][/color] Защитные жилеты и разгрузочные системы, снижающие урон от пуль или ударов.
+  - [color=#cb0000]\[Безопасность/Бармен\][/color] Дробовики с резиновыми пулями (бармены обязаны следовать стандартным операционным процедурам).
+  - [color=#cb0000]\[Безопасность/Наука/Командование\][/color] Ручные вспышки.
+  - [color=#cb0000]\[Инженерия\][/color] Инженерные очки и устройства быстрой постройки (RCD).
 </Document>
+

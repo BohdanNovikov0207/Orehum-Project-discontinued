@@ -1,17 +1,18 @@
 <Document>
-  # Contraband - Restricted Items
-  There are several items, gear, weaponry, and chemical substances that are defined as Contraband when handled by personnel that are not
-  qualified to be handling such restricted entities. The following sections define different contraband that should be looked over when possessed
-  by non-certified personnel.
+  # Контрабанда — Ограниченные предметы
+  Существует несколько категорий предметов, снаряжения, вооружения и химических веществ,
+  которые считаются контрабандой, если они находятся в распоряжении персонала,
+  не имеющего соответствующей квалификации для их использования.
+  В следующих разделах описаны разные виды контрабанды, на которые следует обращать внимание,
+  если они обнаружены у неподготовленных или несертифицированных сотрудников.
 
-  Some examples of these are:
-  - A non-Medical personnel handling and distributing narcotics.
-  - A non-Security personnel handling lethal weaponry without a permit.
-  - A non-Command personnel having Command Access and Head of Staff gear.
+  Примеры таких случаев:
+  - Немедицинский персонал хранит или распространяет наркотические вещества.
+  - Несотрудник службы безопасности владеет летальным оружием без разрешения.
+  - Некомандный персонал имеет доступ уровня командования и снаряжение глав отделов.
 
-  There are best defined in their respective sections, listed below:
-  - [textlink="Restricted Gear" link="Gear SpaceLaw"]
-  - [textlink="Restricted Substances" link="Substances SpaceLaw"]
-  - [textlink="Restricted Weapons" link = "Weapons SpaceLaw"]
-
+  Эти категории описаны подробнее в следующих разделах:
+  - [textlink="Ограниченное снаряжение" link="Gear SpaceLaw"]
+  - [textlink="Ограниченные вещества" link="Substances SpaceLaw"]
+  - [textlink="Ограниченное оружие" link="Weapons SpaceLaw"]
 </Document>

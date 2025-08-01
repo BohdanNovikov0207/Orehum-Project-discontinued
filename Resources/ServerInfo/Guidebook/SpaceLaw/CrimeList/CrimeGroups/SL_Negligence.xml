@@ -1,35 +1,30 @@
 <Document>
-  # Negligence (N)
-  Negligence comes in many levels of severity and can even extend to the death or mass death of the station for how it is classified.
-  These are explained further below.
+# Халатность (N)
 
-  ## Negligence, Minor and Major
-  The difference between Minor Negligence and Major Negligence is the level of threat it has imposed on someone or several people.
-  This is primarily how affected an individual was by the negligence.
+Халатность бывает разной степени тяжести и может привести даже к смерти одного или многих на станции. Это объясняется ниже.
 
-  Did it leave someone severely hurt (but not crit)? Then it would be Major Negligence.
+## Халатность: Малая и Большая
 
-  If it only harmed and was easily corrected, not leaving someone severely wounded but also potentially having gone that far?
-  Then it would only be Minor Negligence.
-  - Major Negligence is classified as: To be negligent in one's duty to an extent that it may cause harm to multiple individuals,
-  a department, or in a manor which directly leads to a serious injury of another person which requires emergency medical treatment.
+Разница между малой и большой халатностью — это уровень угрозы, которую она причинила одному или нескольким людям. Основным критерием является, насколько пострадал человек.
 
-  Some more notes are shown below, for a breakup of how Negligence can, and should, be classified.
-  - Minor Negligence would be something like: This is the charge for the doctor that accidentally pumps pentetic acid into an oozeling,
-  or a scientist who accidentally floods toxins with room temperature CO2 or N2O.
-  - An Atmospheric Technician messing up the airlock and releasing a burn chamber into the TEG wouldn't be Major until it killed and
-  harmed others before being corrected.
+Если кто-то получил серьёзные травмы (но не критическое состояние) — это считается большой халатностью.
 
-  ## Dereliction
-  Dereliction is the willfull abandonment of a position or job that causes a danger to be present, such as an Atmospheric Technician leaving
-  ignoring the use of a holofan and letting a plasma flood spread into a hallway and refusing to fix the issue.
-  - Dereliction is specifically classified as: To willfully abandon an obligation that is critical to the station's continued operation.
+Если вред был незначительным и легко исправимым, без серьёзных ранений, но потенциально могло быть хуже — это малая халатность.
+- Большая халатность — халатность в должностных обязанностях, которая могла привести к вреду нескольким людям, отделу или напрямую вызвала серьёзные травмы, требующие экстренного лечения.
 
-  ## Manslaughter and Biological Terror
-  Manslaughter and Biological Terror are linked to negligence causing full death or mass death to a station. Biological Terror primarily
-  focuses on the releasing of a reagent that causes a virus to spread that's harmful to the station.
-  - Manslaughter is the same as listed in Assault: To unintentionally kill someone through negligent, but not malicious, actions.
-  - Biological Terror is: To knowingly release, cause, or otherwise cause the station to become affected by a disease, plant,
-  or other biological form which may spread unconstrained and or cause serious physical harm.
+Примеры:
+- Малая халатность: Доктор случайно вводит пентетовую кислоту оозлингу, учёный случайно заливает комнату токсинами при комнатной температуре.
+- Большая халатность: Техник атмосферы допустил ошибку с воздухозаборником и выпустил в ТЭГ горящую камеру, что привело к гибели и травмам до устранения.
+
+## Пренебрежение обязанностями
+
+Пренебрежение — это сознательное оставление должности или работы, что вызывает опасность, например, техник атмосферы игнорирует протечку плазмы в коридоре и отказывается исправить ситуацию.
+- Это классифицируется как сознательное оставление обязанности, критической для работы станции.
+
+## Непредумышленное убийство и Биологический терроризм
+
+Непредумышленное убийство и биологический терроризм связаны с халатностью, повлекшей смерть одного или многих на станции.
+- Непредумышленное убийство — смерть, вызванная неумышленными, но халатными действиями.
+- Биологический терроризм — сознательный выпуск или распространение вируса, растения или другого биологического агента, который может неконтролируемо распространяться и наносить серьёзный физический вред станции.
 
 </Document>

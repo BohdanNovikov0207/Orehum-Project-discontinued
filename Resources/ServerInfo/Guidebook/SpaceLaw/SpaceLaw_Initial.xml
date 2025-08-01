@@ -1,49 +1,49 @@
 <Document>
-  # Space Law
-  NanoTrasen has required that all stations under their corporation should follow the abbreviated Space Law. The Space Law is used for handling station
-  personnel, authorized visitors, and can be used against enemy agents.
+  # Космический Закон
+  NanoTrasen требует, чтобы все станции под их корпорацией соблюдали сокращённый Космический Закон. Космический Закон используется для регулирования персонала станции,
+  авторизованных посетителей и может применяться против враждебных агентов.
 
-  Normally speaking, these laws do not apply to foreign invaders, such as enemies of the station (Nuclear Operatives, Ninja, Wizard),
-  compromised personnel (Changelings, Zombies), and law-bound robotics (Cyborgs, Station AI).
-  - This is, however, [bold]not an excuse to abuse Cyborgs and Station AI[/bold].
+  Обычно эти законы не распространяются на иностранных захватчиков, таких как враги станции (ядерные оперативники, ниндзя, волшебник),
+  скомпрометированный персонал (генокрады, зомби) и роботов, связанных законом (киборги, ИИ станции).
+  - Однако это [bold]не является оправданием для злоупотребления киборгами и ИИ станции[/bold].
 
-  ## Crimes and Punishments
-  Space Law covers several different forms of crime, especially with modifiers for such crimes when there are circumstances surrounding
-  the crime(s) that may lead to increasing, decreasing, or outright voiding/expunging the crimes from an individuals record.
-  The crime chart, crime categories, and modifiers can be found below:
-  - [textlink="Crime Chart" link="SpaceLaw CrimeChart"]
-  - [textlink="Crime Categories" link="SpaceLaw Categories"]
-  - [textlink="Crime Modifiers" link="SpaceLaw Modifiers"]
+  ## Преступления и наказания
+  Космический Закон охватывает несколько разных видов преступлений, особенно с модификаторами для таких преступлений, если существуют обстоятельства,
+  которые могут привести к увеличению, уменьшению или полному снятию/удалению преступлений из личного дела.
+  Таблица преступлений, категории преступлений и модификаторы приведены ниже:
+  - [textlink="Таблица преступлений" link="SpaceLaw CrimeChart"]
+  - [textlink="Категории преступлений" link="SpaceLaw Categories"]
+  - [textlink="Модификаторы преступлений" link="SpaceLaw Modifiers"]
 
-  ## Court Rulings
-  Court Rulings are Amendments to the Space Law that have been clarified outside of NanoTrasen Space Law Addendums. These are considered to be an
-  extension of Space Law and [bold]should be followed as well[/bold].
-  - [italic]Court Rulings are considered extension laws that are enforced as well. Failure to follow them is no different than breaking
-  the Space Law and will be punished as well.[/italic]
-  - [textlink="Court Rulings" link="SpaceLaw CourtRulings"]
+  ## Судебные постановления
+  Судебные постановления — это поправки к Космическому Закону, разъяснённые вне рамок Дополнений Космического Закона NanoTrasen. Они считаются
+  продолжением Космического Закона и [bold]должны также соблюдаться[/bold].
+  - [italic]Судебные постановления считаются дополнительными законами, которые также подлежат исполнению. Несоблюдение их приравнивается к нарушению
+  Космического Закона и будет наказано соответственно.[/italic]
+  - [textlink="Судебные постановления" link="SpaceLaw CourtRulings"]
 
-  ## Trials and Trial Procedures
-  Trials are held when deciding whether to permanently brig a prisoner or when a prisoner is pleading to be released from permanent brigging. Trials
-  can be held for other means, but trials that do not partake in Space Law are not required to follow these procedures defined in Space Law. Everything
-  related to Space Law trials can be found in the entry listed below:
-  - [textlink="Trials and Trial Procedures" link="SpaceLaw Trials"]
+  ## Суды и судебные процедуры
+  Суды проводятся при решении вопроса о постоянном заключении заключённого или при просьбе заключённого об освобождении из постоянного заключения. Суды
+  могут проводиться и по другим делам, но суды, не относящиеся к Космическому Закону, не обязаны следовать процедурам, определённым в Космическом Законе. Всё,
+  что касается судов по Космическому Закону, можно найти в разделе ниже:
+  - [textlink="Суды и судебные процедуры" link="SpaceLaw Trials"]
 
-  ## Procedures
-  There are several procedures that Space Law outlines that should be followed. Some such procedures are how Sentencing works, how Prisoners should be
-  Treated, and how Implantation and Searching works. These can be found in more detail below:
-  - [textlink="Procedures" link="SpaceLaw Procedures"]
+  ## Процедуры
+  В Космическом Законе описано несколько процедур, которые следует соблюдать. Среди них — как работает вынесение приговора, как обращаться с заключёнными,
+  а также как проводятся имплантация и обыски. Подробнее можно узнать здесь:
+  - [textlink="Процедуры" link="SpaceLaw Procedures"]
 
-  ## Restricted Items - Contraband
-  There are several categories for Restricted Items, also known as Contraband. It is recommended that you review these ever-so-often to ensure that
-  you are up-to-date with the most recent information regarding contraband and restricted items.
-  Some items are restricted by department, while others are restricted by authority-level, such as Security-Only,
-  Command-Only, and CentralCommand-Only. More information can be found here:
-  - [textlink="Restricted Items" link="SpaceLaw Contraband"]
+  ## Ограниченные предметы — Контрабанда
+  Существует несколько категорий ограниченных предметов, также известных как контрабанда. Рекомендуется время от времени проверять эту информацию, чтобы быть
+  в курсе последних обновлений по контрабанде и ограниченным предметам.
+  Некоторые предметы ограничены по отделу, другие — по уровню доступа, например, только для службы безопасности,
+  только для командования и только для Центрального командования. Подробнее можно узнать здесь:
+  - [textlink="Ограниченные предметы" link="SpaceLaw Contraband"]
 
-  ## Amendments and Exceptions
-  Space Law can be amended or overridden under specific circumstances:
-    - Emergency Situations: Command/Dignitary staff may implement temporary measures to restore order.
-    - Central Command Overrides: Directives from Central Command supersede Space Law where applicable.
-    - Executive Discretion: Captain and Heads of Staff have limited authority to interpret and enforce laws based on context.
+  ## Поправки и исключения
+  Космический Закон может быть изменён или отменён при определённых обстоятельствах:
+    - Аварийные ситуации: сотрудники командования/должностные лица могут вводить временные меры для восстановления порядка.
+    - Перекрытия Центрального командования: директивы Центрального командования имеют приоритет над Космическим Законом там, где это применимо.
+    - Исполнительное усмотрение: капитан и главы отделов имеют ограниченные полномочия для интерпретации и применения законов в зависимости от контекста.
 
 </Document>

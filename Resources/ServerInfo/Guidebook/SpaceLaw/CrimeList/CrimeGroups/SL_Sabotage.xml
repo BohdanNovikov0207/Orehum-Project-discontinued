@@ -1,37 +1,38 @@
 <Document>
-  # Vandalism and Sabotage (S)
-  Vandalism eventually leads to a severity of Sabotage and Massive Station Sabotage. This shows the escalation of the levels and how they
-  should, ideally, be treated when sentencing someone with this grouping charge.
+# Вандализм и Саботаж (S)
 
-  # Vandalism Slight, Minor, and Major
-  Vandalism comes in three categories before it is subjected to the categorization of Sabotage and Grand Sabotage. These are described in more detail
-  below with notes.
+Вандализм может эскалировать до саботажа и массового саботажа станции. Ниже описаны уровни тяжести и рекомендации по вынесению приговоров.
 
-  ## Vandalism Slight
-  To intentionally deface or superficially damage public or private property.
-  - Minor damage that can be repaired with space cleaner or other cosmetic only damage.
+# Вандализм: Незначительный, Малый и Крупный
 
-  ## Vandalism Minor
-  To damage, destroy, or permanently deface non-critical furniture, vendors, or personal property.
-  - Large amounts of irreparable damage should be charged with Major Vandalism, Damage to critical infrastructure may be a form of Sabotage.
+Вандализм делится на три категории, прежде чем перейти к саботажу и крупному саботажу.
 
-  ## Vandalism Major
-  To destroy or damage non-critical furniture, vendors, or personal property in a manor that can not be repaired.
-  - Spray painting all the lights red and wrecking tables in the bar is fun and all, but it makes it hard to figure out where the fire is,
-  or to have a polite sip of tea.
+## Незначительный Вандализм
 
-  ## Sabotage
-  Sabotage has two categorizations, Sabotage and Grand Sabotage. The difference between these is how dangerous it has made the environment, how much of the
-  station is damaged, and how many people are affected by the sabotaging acts.
-  - Sabotage is classified as: To destroy station assets or resources critical to normal or emergency station procedures,
-  or cause sections of the station to become uninhabitable.
+Преднамеренное поверхностное повреждение или порча общественного или частного имущества.
+- Небольшие повреждения, которые можно исправить с помощью космического очистителя или косметическим ремонтом.
 
-  Sabotaging primarily covers: spacing areas, tampering with fire alarms; pipes; wiring,
-  disabling the emitters on the Supermatter, and other general station assets. This also includes unauthorized construction.
-  - While Grand Sabotage is classified as: To destroy or modify station assets or equipment without which the station may collapse or
-  otherwise become uninhabitable.
+## Малый Вандализм
 
-  Grand Sabotage primarily covers: tampering with station records, purposefully delaminating the SM,
-  destroying the SMES power storage equipment, plasma flooding, or super-heating the air distribution system (distro).
+Повреждение, уничтожение или постоянное порча некритичной мебели, торговых автоматов или личного имущества.
+- Большие необратимые повреждения следует классифицировать как Крупный Вандализм. Повреждение критической инфраструктуры может быть формой саботажа.
+
+## Крупный Вандализм
+
+Разрушение или повреждение некритичной мебели, торговых автоматов или личного имущества таким образом, что ремонт невозможен.
+- Например, красная окраска всех светильников и разрушение мебели в баре мешает безопасности и нормальной жизни.
+
+## Саботаж
+
+Саботаж делится на обычный саботаж и крупный (массовый) саботаж, различающиеся степенью угрозы, масштабом повреждений станции и количеством пострадавших.
+
+- Саботаж — разрушение активов или ресурсов станции, критичных для нормальной или аварийной работы, или создание непригодных для жизни участков.
+
+Примеры: выталкивание в космос, вмешательство в пожарные сигнализации, трубы, электропроводку, отключение излучателей Суперматерии, несанкционированное строительство.
+
+- Крупный Саботаж — уничтожение или изменение оборудования станции, без которого станция может разрушиться или стать непригодной для жизни.
+
+Примеры: вмешательство в записи станции, намеренное деламинирование Суперматерии, уничтожение SMES, заливка плазмой, перегрев системы распределения воздуха.
 
 </Document>
+

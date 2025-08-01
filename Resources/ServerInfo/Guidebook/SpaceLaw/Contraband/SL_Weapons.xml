@@ -1,25 +1,28 @@
 <Document>
-  # Restricted Weapons - Contraband
-  Many weapons are restricted to Security and Command, but some weapons are allowed for job purposes, whether they be lethal or non-lethal,
-  but should only be handled by those jobs/departments for such cases.
+  # Ограниченное оружие — Контрабанда
+  Многие виды оружия ограничены для использования только службой безопасности и командным составом.
+  Однако часть вооружения допускается к применению для выполнения рабочих обязанностей, будь оно летальным или нелетальным,
+  но использовать его должны только сотрудники соответствующих должностей/отделов.
 
-  ## Uncategorized (Illegal) Weapons
-  These weapons are illegal in all terms and are only permitted when defending against foreign invaders. Afterwards, they must be turned over to security
-  or considered a crime. Permits may be permitted for [bold]Improvised Weapons[/bold] only.
-  - [color=#cb0000]\[None\][/color] Unlicensed firearms, firearms that are not handled by NanoTrasen or assigned by Security/Command with permit.
-  - [color=#cb0000]\[None\][/color] Exotic weapons (e.g., energy swords), weapons that are not issued by NanoTrasen.
-  - [color=#cb0000]\[None\][/color] Improvised weapons (e.g., baseball bats, pipe tools). Weapons that should not be allowed without a permit.
-  - [color=#cb0000]\[None\][/color] Lethal implants, implants that are not permitted for use by NanoTrasen.
-  - [color=#cb0000]\[None\][/color] Other lethal weapons not listed above, catch-all.
+  ## Некатегоризированное (Нелегальное) оружие
+  Это оружие является полностью запрещённым и допускается только при защите от внешних захватчиков.
+  После этого оно должно быть сдано в службу безопасности, иначе хранение считается преступлением.
+  Разрешения могут выдаваться только на [bold]импровизированное оружие[/bold].
+  - [color=#cb0000]\[Нет\][/color] Незарегистрированное огнестрельное оружие, оружие, не выдаваемое NanoTrasen, или не назначенное службой безопасности/командованием по разрешению.
+  - [color=#cb0000]\[Нет\][/color] Экзотическое оружие (например, энергетические мечи), не выдаваемое NanoTrasen.
+  - [color=#cb0000]\[Нет\][/color] Импровизированное оружие (например, бейсбольные биты, трубы). Запрещено без специального разрешения.
+  - [color=#cb0000]\[Нет\][/color] Летальные импланты, не одобренные NanoTrasen.
+  - [color=#cb0000]\[Нет\][/color] Прочее летальное оружие, не указанное выше (универсальная категория).
 
-  ## Categorized (Semi-Legal) Weapons
-  These weapons are illegal when used outside the respective job/department, but discretion is advised when making decisions on these.
-  - [color=#cb0000]\[Security\][/color] Lethal firearms (excluding unmarked weapons, specialty tools like proto-kinetic accelerators).
-  - [color=#cb0000]\[Security/Salvage\][/color] Specialty mining tools such as proto-kinetic accelerators, glaives, daggers, and crushers.
-  \[Salvage must use these tools off-station or in authorized operations only, such as self-defense.\]
-  - [color=#cb0000]\[Security/Command\][/color] Command-approved antique weapons (e.g., antique laser gun).
-  - [color=#cb0000]\[Bartender\][/color] Civilian firearms, limited to less-than-lethal ammunition only.
-  - Weapons with permits are permitted for use by any personnel if signed off by Head of Security and/or Captain. These are only allowed with valid
-  reasoning, and Command Personnel should not hand these out without justifications.
-
+  ## Категоризированное (Условно легальное) оружие
+  Это оружие считается незаконным при использовании вне соответствующей должности/отдела,
+  но при вынесении решения следует применять разумную оценку ситуации.
+  - [color=#cb0000]\[Служба безопасности\][/color] Летальное огнестрельное оружие (за исключением незарегистрированного оружия и специальных инструментов вроде протокинетических ускорителей).
+  - [color=#cb0000]\[Служба безопасности/Утилизация\][/color] Специальные шахтёрские инструменты, такие как протокинетические ускорители, глефы, кинжалы и дробилки.
+    \[Сотрудники утилизации могут использовать это оружие только за пределами станции или в одобренных операциях, например, для самозащиты.\]
+  - [color=#cb0000]\[Служба безопасности/Командование\][/color] Одобренное командованием антикварное оружие (например, антикварный лазерный пистолет).
+  - [color=#cb0000]\[Бармен\][/color] Гражданское огнестрельное оружие, ограниченное только нелетальными боеприпасами.
+  - Оружие с действующими разрешениями допускается к использованию любым персоналом при условии согласования с главой службы безопасности и/или капитаном.
+    Такие разрешения выдаются только при наличии веских оснований, и командование не должно раздавать оружие без оправданной причины.
 </Document>
+

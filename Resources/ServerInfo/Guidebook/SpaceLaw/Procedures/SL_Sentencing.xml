@@ -1,45 +1,37 @@
 <Document>
-  # Sentencing Procedures
-  There are several procedures that must be followed when sentencing any individual with charges that will land them in the temporary holding
-  cells (jail) and/or sentencing them to permanent brigging.
+# Процедуры Вынесения Приговора
 
-  These procedures are dependent on different situations, and charging anybody should follow the following times per category as listed in the Crime Chart:
-  - 1-XX: Warning (Note for Future Occurrences)
-  - 2-XX: 1-2 Minutes
-  - 3-XX: 2-5 Minutes
-  - 4-XX: 5-10 Minutes
-  - 5-XX: Permanent Brig (Bring to Court as Well)
+Существуют несколько процедур, которые необходимо соблюдать при вынесении приговора лицу, обвиняемому в правонарушениях, что приведёт к временным арестам (тюремному заключению) и/или постоянному заключению в пермабриг.
 
-  ## Sentencing Rules
-  These are rules that are necessary to follow, from a server rules perspective as well:
-  - The [color=#EB2D3A][bold]maximum[/bold][/color] sentence time is 10 minutes. Any time higher than this should be shortened to 10 minutes.
-  - If the time were to add up to 15 minutes or higher, it should be tried in court for permanent brigging, unless the prisoner accepts instant perma.
-  - If the time were to add up to 20 minutes or higher, it should be permanently brigged no matter what.
-  - If the time were to add up to 30 minutes or higher, it should be moved to an execution at Magistrate/Captain approval.
+Эти процедуры зависят от ситуации, а время наказания за каждую категорию следует брать из Таблицы Преступлений:
+- 1-XX: Предупреждение (запись для будущих случаев)
+- 2-XX: 1-2 минуты
+- 3-XX: 2-5 минут
+- 4-XX: 5-10 минут
+- 5-XX: Пермабриг (обязательно суд)
 
-  ## Guidelines
-  These procedures also follow the guidelines as listed below:
-  - The Magistrate, Head of Security, Warden, and Captain are the only personnel that should be sentencing if they exist in the Crew Manifest.
-  - From a server rules perspective, it is expected that Security Officers are held to only placing sentences under
-  [color=#EB2D3A][bold]10 minutes[/bold][/color] unless Space Law would force them to be tried and/or permanently confined (for having higher charges).
-  - Elaborating on the previous point, Security Officers maliciously placing higher times should be kept in check by those that can sentence criminals;
-  however, this does not mean that maliciously setting times high constantly will go unpunished.
-  - Use common sense and humanity when issuing punishments. Not all punishments need the max time nor the minimum time. You should not issue the max
-  punishment for a simple crime unless it has caused a severe outcome. [bold][italic]Lawyers exist for this purpose.[/italic][/bold]
+## Правила Вынесения Приговора
+- Максимальное [color=#EB2D3A][bold]время[/bold][/color] наказания — 10 минут. Время выше этого должно быть сокращено до 10 минут.
+- Если суммарное время наказания достигает 15 минут или более, дело должно рассматриваться в суде на предмет постоянного заключения, если только заключённый не согласится на мгновенный перма-бриг.
+- Если суммарное время достигает 20 минут или более, наказание — пермабриг без исключений.
+- Если суммарное время достигает 30 минут или более, дело направляется на рассмотрение исполнения смертного приговора с одобрения Магистрата или Капитана.
 
-  ## Stacking Crimes
-  Crimes are to be considered 'stackable' in the sense that if you charge someone with two or
-  more different crimes, you should combine the times you would give them for each crime.
-  - Linked crimes, shown in matching colors and parentheses on the Crime Chart, can not be stacked and instead override each other,
-  you should pick the highest crime that matches the case of severity, and attach modifiers as needed.
-  - These categories can be found in the [textlink="Categories" link="SpaceLaw Categories"] entry.
+## Руководящие Принципы
+- Магистрат, Начальник безопасности, Надзиратель и Капитан — единственные лица, уполномоченные выносить приговоры, если они присутствуют в составе экипажа.
+- Офицеры безопасности должны назначать наказания не более [color=#EB2D3A][bold]10 минут[/bold][/color], если только Закон Космоса не требует суд и/или постоянного заключения.
+- Офицеры безопасности, злоупотребляющие назначением высоких сроков, должны контролироваться вышестоящими лицами.
+- Используйте здравый смысл и человечность при вынесении наказаний — не всегда нужно ставить максимальный срок за простое преступление, если оно не повлекло серьёзных последствий. [bold][italic]Для этого и существуют юристы.[/italic][/bold]
 
-  ## Attaching Modifiers
-  It is important to attach modifiers, as applicable, to crimes. Modifiers act in the place of standards and are more flexible and can, and should be,
-  assigned with discretion.
-  - These modifiers can be found in the [textlink="Modifiers" link="SpaceLaw Modifiers"] entry.
+## Суммирование Преступлений
+- Если обвиняют в нескольких преступлениях, время наказания за каждое суммируется.
+- Связанные преступления (отмечены одинаковым цветом и в скобках в Таблице Преступлений) не суммируются, а заменяют друг друга — следует выбрать наиболее тяжкое преступление и применить соответствующие модификаторы.
+- Категории преступлений можно найти в записи [textlink="Категории" link="SpaceLaw Categories"].
 
-  ##Exceptions
-  - If there's no Magistrate on board, the Captain or Warden can decide to deny the criminal right to trial completely and punish them immediately. This should only happen in extreme situations where giving the criminal a trial is unreasonable.
-  - With the Captain's permission, permanent prisoners who escape more than twice can be subjected to immediate execution while in custody. 'Kill on sight' orders should not be given, except in such cases where the prisoner is assaulting crew members with a lethal weapon.
+## Применение Модификаторов
+- Модификаторы изменяют стандартные наказания, являются гибкими и назначаются по усмотрению.
+- Список модификаторов доступен в записи [textlink="Модификаторы" link="SpaceLaw Modifiers"].
+
+## Исключения
+- Если Магистрата на станции нет, Капитан или Надзиратель могут полностью отказать преступнику в праве на суд и сразу наказать. Это должно происходить только в крайних случаях, когда суд невозможен.
+- По разрешению Капитана заключённые пермабрига, сбегающие более двух раз, могут быть подвергнуты немедленному исполнению смертного приговора во время содержания под стражей. Приказы "убить при виде" не выдаются, кроме случаев, когда заключённый нападает на экипаж с смертельным оружием.
 </Document>
