@@ -2,37 +2,38 @@
   # Station Alert - White
 
   <Box>
-    [italic]Called by: Glimmer Detection System.[/italic]
+    [italic]Вызывается системой обнаружения мерцания.[/italic]
   </Box>
 
 
-  [bold]Conditions:[/bold]
-  The Glimmer Level has reached a critical status and the Glimmer Probes are in immediate threat of exploding, causing massive station damage and potentially resulting in crew death.
+  [bold]Условия:[/bold]
 
-  [bold]Security:[/bold]
+  Уровень "Мерцания" достиг критического уровня, и зонды "Мерцания" находятся под непосредственной угрозой взрыва, что приведет к значительному повреждению станции и, возможно, к гибели экипажа.
 
-  You should ensure that Epistemics Personnel are following the law and assist them with unruly Psionic Users.
+  [bold]Служба безопаности:[/bold]
 
-  [bold]Epistemics:[/bold]
+  Вы должны убедиться, что сотрудники научного отдела соблюдают закон, и помочь им справиться с неуправляемыми пользователями псионики.
 
-  You should ensure that the Epistemics Department is clear of personnel and focus on capturing and dealing with Psionic Users as per the SOP for individual jobs in Epistemics.
+  [bold]Научный отдел:[/bold]
 
-  [bold]Secure Areas:[/bold]
+  Вы должны убедиться, что в научном отделе нет персонала, и сосредоточиться на поиске пользователей-псиоников и работе с ними в соответствии с инструкцией для индивидуальных заданий в научном отделе.
 
-  EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Vault, Gateway, anywhere else requiring command level access that does not get regularly used.
+  [bold]Безопасные зоны:[/bold]
 
-  It is recommended that all Secure Areas be bolted down unless their use is necessary;
+  Хранилище EVA, техническое хранилище, Гравитационный генератор, Инженерное защищенное хранилище, загрузка ИИ, хранилище, шлюз, любое другое хранилище, требующее доступа на командном уровне, которое используется нерегулярно.
 
-  [bold]General Crew:[/bold]
+  Рекомендуется, чтобы все защищенные участки были закреплены болтами, за исключением случаев, когда в их использовании есть необходимость;
 
-  All personnel are highly recommended to maximize their Suit Sensors;
+  [bold]Общий состав экипажа:[/bold]
 
-  Personnel are to report any suspicious activity to the nearest member of Security, or use their PDA or headsets if required;
+  Всему персоналу настоятельно рекомендуется максимально использовать датчики в своих костюмах;
 
-  Personnel are highly encouraged to vacate the immediate area around Epistemics Department;
+  Персонал должен сообщать о любых подозрительных действиях ближайшему сотруднику службы безопасности или, при необходимости, пользоваться своими КПК или гарнитурами;
 
-  Personnel are highly encouraged to point out Psionic Users to the Epistemics Department;
+  Персоналу настоятельно рекомендуется покинуть территорию, прилегающую к научному отделу;
 
-  Personnel are highly encouraged to cooperate with Epistemics Personnel in their pursuit to find Psionic Users.
+  Персоналу настоятельно рекомендуется сообщать в научный отдел о пользователях псионики;
+
+  Персоналу настоятельно рекомендуется сотрудничать с сотрудниками научного отдела в их стремлении найти псионических пользователей.
 
 </Document>
