@@ -296,19 +296,19 @@ character-item-group-LoadoutMysticShoes = Обувь мистика
 character-item-group-LoadoutMysticUniforms = Униформа мистика
 
 # Epistemics - Noviciate
-character-item-group-LoadoutNoviciateBackpacks = Рюкзаки аколита
-character-item-group-LoadoutNoviciateBelt = Пояс аколита
-character-item-group-LoadoutNoviciateEars = Аксессуары для ушей аколита
-character-item-group-LoadoutNoviciateEquipment = Оборудование аколита
-character-item-group-LoadoutNoviciateEyes = Очки аколита
-character-item-group-LoadoutNoviciateGloves = Перчатки аколита
-character-item-group-LoadoutNoviciateHead = Головные уборы аколита
-character-item-group-LoadoutNoviciateId = Удостоверение аколита
-character-item-group-LoadoutNoviciateNeck = Шейные аксессуары аколита
-character-item-group-LoadoutNoviciateMask = Маски аколита
-character-item-group-LoadoutNoviciateOuter = Верхняя одежда аколита
-character-item-group-LoadoutNoviciateShoes = Обувь аколита
-character-item-group-LoadoutNoviciateUniforms = Униформа аколита
+character-item-group-LoadoutNoviciateBackpacks = Рюкзаки послушника
+character-item-group-LoadoutNoviciateBelt = Пояс послушника
+character-item-group-LoadoutNoviciateEars = Аксессуары для ушей послушника
+character-item-group-LoadoutNoviciateEquipment = Оборудование послушника
+character-item-group-LoadoutNoviciateEyes = Очки послушника
+character-item-group-LoadoutNoviciateGloves = Перчатки послушника
+character-item-group-LoadoutNoviciateHead = Головные уборы послушника
+character-item-group-LoadoutNoviciateId = Удостоверение послушника
+character-item-group-LoadoutNoviciateNeck = Шейные аксессуары послушника
+character-item-group-LoadoutNoviciateMask = Маски послушника
+character-item-group-LoadoutNoviciateOuter = Верхняя послушника
+character-item-group-LoadoutNoviciateShoes = Обувь послушника
+character-item-group-LoadoutNoviciateUniforms = Униформа послушника
 
 # Epistemics - Psionic Mantis
 character-item-group-LoadoutPsionicMantisBackpacks = Рюкзаки псионического мантиса
