@@ -19,6 +19,10 @@
         visible: true
       - state: closed
         map: ["enum.ItemCabinetVisualLayers.Door"]
+      # Corvax-DefibrillatorCabinetResprite-start
+      - state: light
+        shader: unshaded
+      # Corvax-DefibrillatorCabinetResprite-end
     - type: ItemCabinet
       cabinetSlot:
         ejectOnInteract: true
