@@ -1,10 +1,10 @@
 <Document>
-# Emergency Procedures
-This is the list of procedures that should (ideally) be followed in certain circumstances. This is a variety of emergencies and levels of hostiliy/threat to the station.
+# Аварийные процедуры
+Это список процедур, которые следует (в идеале) соблюдать при определенных обстоятельствах. Речь идет о различных чрезвычайных ситуациях и уровнях враждебности/угрозы для станции.
 
-Command and Security should utilize this section to differentiate the danger level for this station and choose appropriate reactions.
+Командованию и службе безопасности следует использовать этот раздел, чтобы определить уровень опасности для данной станции и выбрать соответствующие меры реагирования.
 
-The following emergencies are underneath this folder:
+В этой папке находятся следующие аварийные ситуации:
 - [textlink="Confirmed Revolutions" link="ConfirmedRevs SOP"]
 - [textlink="Containment Failures (Tesla/Singularity)" link="ContainmentFail SOP"]
 - [textlink="Fire/Gas Spills" link="FireGasSpill SOP"]
