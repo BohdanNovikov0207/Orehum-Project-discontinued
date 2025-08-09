@@ -13,6 +13,20 @@
     - shrieks
     - screeches
     - yells
+    # Corvax-Localization-Start
+    - кричит
+    - кричит.
+    - кричит!
+    - орёт
+    - орёт.
+    - орёт!
+    - орет
+    - орет.
+    - орет!
+    - визжит
+    - визжит.
+    - визжит!
+    # Corvax-Localization-End
 
 - type: emote
   id: Laugh
@@ -28,6 +42,22 @@
     - chuckles
     - giggles
     - chortles
+    # Corvax-Localization-Start
+    - смеется
+    - смеется.
+    - смеётся
+    - смеётся.
+    - хохочет
+    - хохочет.
+    - хихикает
+    - хихикает.
+    - хихикнул
+    - хихикнул.
+    - хихикнула
+    - хихикнула.
+    - ржёт
+    - ржёт.
+    # Corvax-Localization-End
 
 - type: emote
   id: Honk
@@ -40,7 +70,8 @@
     - SiliconEmotes
     - HarpyEmotes
   chatTriggers:
-    - honks
+    - хонкает
+    - хонкает.
 
 - type: emote
   id: Sigh
@@ -53,6 +84,12 @@
   chatMessages: ["chat-emote-msg-sigh"]
   chatTriggers:
     - sighs
+    - вздыхает
+    - вздыхает.
+    - вздохнул
+    - вздохнул.
+    - вздохнула
+    - вздохнула.
 
 - type: emote
   id: Whistle
@@ -65,6 +102,12 @@
   chatMessages: ["chat-emote-msg-whistle"]
   chatTriggers:
     - whistles
+    - свистит
+    - свистит.
+    - свистнул
+    - свистнул.
+    - свистнула
+    - свистнула.
 
 - type: emote
   id: Crying
@@ -78,6 +121,14 @@
   chatTriggers:
     - cries
     - sobs
+    # Corvax-Localization-Start
+    - плачет
+    - плачет.
+    - рыдает
+    - рыдает.
+    - ноет
+    - ноет.
+    # Corvax-Localization-End
 
 - type: emote
   id: Squish
@@ -108,6 +159,10 @@
   chatMessages: ["chat-emote-msg-chitter"]
   chatTriggers:
    - chitters
+   - щебечет
+   - щебечет.
+   - стрекочет
+   - стрекочет.
 
 - type: emote
   id: Squeak
@@ -123,6 +178,8 @@
   chatMessages: ["chat-emote-msg-squeak"]
   chatTriggers:
    - squeaks
+   - пищит
+   - пищит.
 
 - type: emote
   id: Click
@@ -138,6 +195,12 @@
   chatMessages: ["chat-emote-msg-click"]
   chatTriggers:
    - clicks
+   - щёлкает
+   - щёлкает.
+   - щелкает
+   - щелкает.
+   - клацает
+   - клацает.
 
 # hand emotes
 - type: emote
@@ -154,6 +217,20 @@
   chatMessages: ["chat-emote-msg-clap"]
   chatTriggers:
     - claps
+    - хлопает
+    - хлопает.
+    - аплодирует
+    - аплодирует.
+    - хлопнул
+    - хлопнул.
+    - хлопнула
+    - хлопнула.
+    - хлопает в ладоши
+    - хлопает в ладоши.
+    - хлопнул в ладоши
+    - хлопнул в ладоши.
+    - хлопнула в ладоши
+    - хлопнула в ладоши.
 
 - type: emote
   id: Snap
@@ -175,6 +252,30 @@
     - snaps their fingers
     - snaps its fingers
     - snaps its' fingers
+    - щелкает
+    - щелкает.
+    - щелкнул
+    - щелкнул.
+    - щелкнула
+    - щелкнула.
+    - щёлкает
+    - щёлкает.
+    - щёлкнул
+    - щёлкнул.
+    - щёлкнула
+    - щёлкнула.
+    - щелкает пальцами
+    - щелкает пальцами.
+    - щелкнул пальцами
+    - щелкнул пальцами.
+    - щелкнула пальцами
+    - щелкнула пальцами.
+    - щёлкает пальцами
+    - щёлкает пальцами.
+    - щёлкнул пальцами
+    - щёлкнул пальцами.
+    - щёлкнула пальцами
+    - щёлкнула пальцами.
 
 - type: emote
   id: Salute
@@ -190,6 +291,16 @@
   chatMessages: ["chat-emote-msg-salute"]
   chatTriggers:
     - salutes
+    - салютует
+    - салютует.
+    - отдает честь
+    - отдает честь.
+    - отдаёт честь
+    - отдаёт честь.
+    - отдал честь
+    - отдал честь.
+    - отдала честь
+    - отдала честь.
 
 - type: emote
   id: DefaultDeathgasp
@@ -234,6 +345,9 @@
   chatMessages: ["chat-emote-msg-buzz"]
   chatTriggers:
     - buzzes
+    - жужжит.
+    - зажужжал.
+    - зажужжала.
 
 - type: emote
   id: Weh
@@ -256,6 +370,8 @@
   chatMessages: ["chat-emote-msg-chirp"]
   chatTriggers:
     - chirps
+    - чирикает
+    - чирикает.
 
 # Machine Emotes
 - type: emote
@@ -270,6 +386,8 @@
   chatMessages: ["chat-emote-msg-beep"]
   chatTriggers:
     - beeps
+    - бип
+    - бип.
 
 - type: emote
   id: Boop
@@ -282,6 +400,8 @@
   chatMessages: [ boops ]
   chatTriggers:
     - boops
+    - буп
+    - буп.
 
 - type: emote
   id: Chime
@@ -295,6 +415,8 @@
   chatMessages: ["chat-emote-msg-chime"]
   chatTriggers:
     - chimes
+    - дзынь
+    - дзынь.
 
 - type: emote
   id: Buzz-Two
@@ -308,6 +430,18 @@
   chatMessages: ["chat-emote-msg-buzzestwo"]
   chatTriggers:
     - buzzes twice
+    - бипбуп
+    - бипбуп.
+    - бип буп
+    - бип буп.
+    - бип-буп
+    - бип-буп.
+    - бипбип
+    - бипбип.
+    - бип бип
+    - бип бип.
+    - бип-бип
+    - бип-бип.
 
 - type: emote
   id: Ping
@@ -321,6 +455,8 @@
   chatMessages: ["chat-emote-msg-ping"]
   chatTriggers:
     - pings
+    - пинг
+    - пинг.
 
 - type: emote
   id: Whirr
@@ -333,6 +469,8 @@
   chatMessages: [ whirrs ]
   chatTriggers:
     - whirrs
+    - звенит
+    - звенит.
 
 - type: emote
   id: Mars
@@ -363,3 +501,5 @@
   chatMessages: [ wurble ]
   chatTriggers:
     - wurble
+    - урчит
+    - урчит.

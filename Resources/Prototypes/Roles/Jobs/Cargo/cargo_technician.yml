@@ -17,6 +17,7 @@
       employers:
       - OrionExpress
       - NanoTrasen
+      - HephaestusIndustries
 
 - type: startingGear
   id: CargoTechGear
