@@ -25,8 +25,6 @@
       allowNonHumans: true
       multiAntagSetting: All
       startingGear: ThiefGear
-      components:
-      - type: Pacified
       mindRoles:
       - MindRoleThief
       briefing:
