@@ -203,6 +203,12 @@
   name: shielded sunglasses
   description: A pair of black sunglasses. These ones are specially made to protect the eye from blinding flashes of light.
   components:
+  - type: Tag
+    tags:
+    - Sunglasses # Orehum - фикс солнцезащитных очков
+    - HamsterWearable
+    - WhitelistChameleon
+    - SecDogWearable # DeltaV - let Laika wear sunglasses
   - type: FlashImmunity
   - type: EyeProtection
     protectionTime: 5
@@ -222,6 +228,7 @@
     protectionTime: 5
   - type: Tag
     tags:
+    - Sunglasses # Orehum - фикс солнцезащитных очков
     - HamsterWearable
     - WhitelistChameleon
     - SecDogWearable # DeltaV - let Laika wear secglasses
@@ -276,6 +283,7 @@
     sprite: Clothing/Eyes/Glasses/aviators.rsi
   - type: Tag
     tags:
+    - Sunglasses # Orehum - фикс солнцезащитных очков
     - WhitelistChameleon
 
 - type: entity
@@ -318,6 +326,7 @@
     sprite: Clothing/Eyes/Glasses/sunglasses_big.rsi
   - type: Tag
     tags:
+    - Sunglasses # Orehum - фикс солнцезащитных очков
     - WhitelistChameleon
 
 - type: entity
@@ -360,6 +369,7 @@
     sprite: Clothing/Eyes/Glasses/sunglasses_visor.rsi
   - type: Tag
     tags:
+    - Sunglasses # Orehum - фикс солнцезащитных очков
     - WhitelistChameleon
 
 - type: entity
