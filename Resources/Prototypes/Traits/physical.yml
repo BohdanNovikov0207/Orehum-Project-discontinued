@@ -1077,8 +1077,6 @@
         - type: ShowCriminalRecordIcons
         - type: ShowHealthIcons
         - type: FlashImmunity
-          damageContainers:
-          - Biological
         - type: ShowHealthBars
           damageContainers:
           - Biological

@@ -1,3 +1,6 @@
+- type: playTimeTracker
+  id: JobERTJanitorUnen
+
 # Leader Gamma
 - type: startingGear
   id: ERTLeaderGAMMAGear
@@ -1670,6 +1673,13 @@
         collection: SoldierDeath
         params:
           volume: -4
+
+    - type: GhostRole
+      name: ghost-role-information-ert-leader-name
+      description: ghost-role-information-ert-leader-description
+      rules: ghost-role-information-nonantagonist-rules
+      raffle:
+        settings: short
       job: ERTLeader
     - type: Loadout
       prototypes: [ ERTLeaderORHMGear ]
@@ -1774,6 +1784,12 @@
         collection: SoldierDeath
         params:
           volume: -4
+    - type: GhostRole
+      name: ghost-role-information-ert-security-name
+      description: ghost-role-information-ert-security-description
+      rules: ghost-role-information-nonantagonist-rules
+      raffle:
+        settings: short
       job: ERTSecurity
     - type: RandomMetadata
       nameSegments:
@@ -1875,6 +1891,12 @@
         collection: SoldierDeath
         params:
           volume: 3
+    - type: GhostRole
+      name: ghost-role-information-ert-medical-name
+      description: ghost-role-information-ert-medical-description
+      rules: ghost-role-information-nonantagonist-rules
+      raffle:
+        settings: short
       job: ERTMedical
     - type: RandomMetadata
       nameSegments:
@@ -1970,7 +1992,13 @@
         collection: SoldierDeath
         params:
           volume: -4
-      job: ERTMedical
+    - type: GhostRole
+      name: ghost-role-information-ert-engineer-name
+      description: ghost-role-information-ert-engineer-description
+      rules: ghost-role-information-nonantagonist-rules
+      raffle:
+        settings: short
+      job: ERTEngineer
     - type: RandomMetadata
       nameSegments:
       - NamesFirstMilitary

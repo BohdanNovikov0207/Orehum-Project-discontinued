@@ -7,10 +7,7 @@
   - type: HandheldTranslator
     spoken:
     - TauCetiBasic
-    - Qiilour
     understood:
     - TauCetiBasic
-    - Qiilour
     requires:
     - TauCetiBasic
-    - Qiilour
