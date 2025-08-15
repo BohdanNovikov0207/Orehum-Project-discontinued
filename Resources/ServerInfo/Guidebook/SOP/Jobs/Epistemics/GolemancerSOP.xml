@@ -1,40 +1,40 @@
 <Document>
-# Golemancer SOP
-This is the list of procedures, responsibilities, and duties of the [color=#cc74fc]Golemancer[/color] of this station.
-<Box>For clarification, 'Researcher' and 'Golemancer' are both referred to as 'Researcher' in this SOP.</Box>
+# Регламент големансера
+Это перечень процедур, полномочий и обязанностей [color=#cc74fc]Големансера[/color] на этой станции.
+<Box>Для ясности: в этом регламенте под «исследователем» понимаются и «исследователь», и «големансер».</Box>
 
 <ColorBox>
   <Box>
-    For the purposes of Alert Escalation: Treat higher alerts as if they are still on the previous alert level. (Yellow Alert is Blue Alert if it was Blue Alert prior.) Furthermore, treat Delta, Gamma, Epsilon, and Violet Alert as Red Alert.
+    Для целей эскалации тревоги: воспринимайте повышение уровня как продолжение предыдущего уровня (например, Жёлтая тревога считается Синей, если до этого была Синяя). Кроме того, уровни Дельта, Гамма, Эпсилон и Фиолетовый приравниваются к Красной тревоге.
   </Box>
-</ColorBox>
+  </ColorBox>
 
-## Green Alert
-1. The Researcher is not permitted to construct any Combat Mechs without express permission from the Captain and/or Head of Security.
-<Box>The [color=#1b67a5][bold]Research Director[/bold][/color] is placed under these same restrictions.</Box>
+## Зелёная тревога
+1. Исследователю запрещено создавать боевые мехи без прямого разрешения капитана и/или главы службы безопасности.
+<Box>[color=#1b67a5][bold]Руководитель исследований[/bold][/color] подпадает под те же ограничения.</Box>
 
-2. The Researcher is freely permitted to construct Utility Mechs, along with Utility Equipment. This refers to Ripleys.
+2. Исследователю разрешается свободно собирать утилитарные мехи и соответствующее оборудование (например, «Рипли»).
 
-3. The Researcher is freely permitted to construct Cyborgs and all assorted equipment (modules and more).
+3. Исследователю разрешается свободно создавать киборгов и всё сопутствующее оборудование (модули и прочее).
 
-4. The Researcher is not permitted to transfer personnel MMIs into Cyborgs without express written or verbal consent from the person in question.
-<Box>The consent form should be kept safe.</Box>
+4. Исследователю запрещено переносить ММИ персонала в киборгов без явно выраженного письменного или устного согласия соответствующего человека.
+<Box>Бланк согласия следует хранить в безопасности.</Box>
 
-## Blue Alert
-1. Guidelines 2, 3, and 4 carry over from [color=#388c34]Green Alert[/color].
+## Синяя тревога
+1. Пункты 2, 3 и 4 переносятся с [color=#388c34]Зелёной тревоги[/color].
 
-2. The Researcher is permitted to construct Combat Mechs, but [bold]must deliver them to Armory[/bold] for Storage. Failure to do so will result in the Combat Mech being destroyed.
-<Box>The only exception to this policy is for extreme emergencies, such as Delta Alert, Nuclear Operatives, Blob, et cetera.</Box>
-<Box>The [color=#1b67a5][bold]Research Director[/bold][/color] is placed under these same restrictions.</Box>
+2. Исследователю разрешено создавать боевые мехи, однако их [bold]необходимо передать в арсенал[/bold] на хранение. В противном случае боевой мех подлежит уничтожению.
+<Box>Исключение — крайние случаи: тревога Дельта, ядерные оперативники, Блоб и т. п.</Box>
+<Box>[color=#1b67a5][bold]Руководитель исследований[/bold][/color] подпадает под те же ограничения.</Box>
 
-## Red Alert
-1. All guidelines from [color=#388c34]Green Alert[/color] and [color=#1b67a5]Blue Alert[/color] carry over. No special guidelines in [color=#ba292c]Red Alert[/color].
+## Красная тревога
+1. Все правила из [color=#388c34]Зелёной тревоги[/color] и [color=#1b67a5]Синей тревоги[/color] сохраняются. Отдельных положений для [color=#ba292c]Красной тревоги[/color] нет.
 
-## White Alert
-1. The Researcher is to leave the Epistemics Department and assist the Mantis, Mystagogue, and other Epistemics personnel in finding psionic users and lowering the glimmer levels.
+## Белая тревога
+1. Исследователь должен покинуть отдел эпистемики и помогать Мантису, Мистагогу и остальному персоналу эпистемики в поиске псиоников и понижении уровней Глиммера.
 
-2. The Researcher is to ensure that no other personnel are in the Epistemics area in case of a glimmer overload resulting in an explosion in the Epistemics area.
+2. Исследователь должен обеспечить отсутствие посторонних в зоне эпистемики на случай перегрузки Глиммера, способной вызвать взрыв.
 
-3. The Researcher is to take commands from the Mystagogue and Mantis during this time.
+3. Исследователь в этот период подчиняется Мистагогу и Мантису.
 
 </Document>

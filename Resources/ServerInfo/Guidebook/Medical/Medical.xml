@@ -1,10 +1,10 @@
 <Document>
-# Medical
-This is the department where people go to when they're hurt, it's up to the folks working here to fix them.
+# Медицинский отдел
+Сюда приходят, когда нужна помощь. Ваша задача — вернуть людей в строй.
 
-Right now, medbay is divided into two different sets of care:
+Сейчас медблок разделён на два направления работы:
 
-## Medical Treatment
+## Медицинская помощь
 <Box>
 <GuideEntityEmbed Entity="Brutepack"/>
 <GuideEntityEmbed Entity="Bloodpack"/>
@@ -12,7 +12,7 @@ Right now, medbay is divided into two different sets of care:
 <GuideEntityEmbed Entity="Gauze"/>
 <GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
 </Box>
-## Chemical Production
+## Производство реагентов
 <Box>
 <GuideEntityEmbed Entity="ChemDispenser"/>
 <GuideEntityEmbed Entity="LargeBeaker"/>
