@@ -35,8 +35,8 @@ trait-description-HeavyweightDrunk =
 trait-name-LiquorLifeline = Алкоголь — жизнь
 trait-description-LiquorLifeline =
     Забудьте про врача — просто загляните в бар за «этанольным рецептом»!
-    Пока вы пьяны, вы медленно восстанавливаете [color=red]ушибы[/color], [color=orange]термические[/color],
-    [color=orange]электрические[/color] и [color=orange]обмораживающие[/color] повреждения. Эффект усиливается с ростом опьянения. Вы также получаете преимущества [color=lightblue]алкогольной выносливости[/color].
+    Пока вы пьяны, вы медленно восстанавливаете [color=red]ушибы[/color], [color=orange]термические[/color], [color=orange]электрические[/color]
+    и [color=orange]обмораживающие[/color] повреждения. Эффект усиливается с ростом опьянения. Вы также получаете преимущества [color=lightblue]алкогольной выносливости[/color].
 
 trait-name-Muted = Немота
 trait-description-Muted =
@@ -496,7 +496,7 @@ trait-description-Featherweight =
     Ваше тело необычайно лёгкое для вашего вида.
     Этот признак уменьшает плотность тела на 50%, усложняя таскание и поднимание предметов.
 
-trait-name-Bodybuilder = Культурист
+trait-name-Bodybuilder = Бодибилдер
 trait-description-Bodybuilder =
     Благодаря тренировкам или модификациям, вы достигли пика физической формы.
     Этот признак увеличивает плотность тела на 55, облегчая таскание и поднимание тяжестей.
