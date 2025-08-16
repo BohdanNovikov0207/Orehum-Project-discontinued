@@ -1,28 +1,27 @@
 <Document>
-  # Radio
+  # Радио
 
-  Your radio allows you to communicate across the entire station and to your specific [color=#a4885c]department[/color].
+  Ваша рация позволяет общаться по всей станции и в рамках вашего [color=#a4885c]отдела[/color].
 
   <Box>
     <GuideEntityEmbed Entity="ClothingHeadsetGrey"/>
   </Box>
 
-  To send a station-wide message over the radio preface your text with [color=#a4885c]semi-colon (;)[/color].
+  Чтобы отправить общестанционное сообщение по рации, начните текст с [color=#a4885c]точки с запятой (;)[/color].
 
-  ## Departmental Radio
+  ## Радио отделов
 
-  You are able to send messages over your departmental radio channels using [color=#a4885c]colon (:)[/color] followed by the
-  department letter as long as you're wearing a headset with your department's encryption key.
+  Вы можете отправлять сообщения по каналам своего отдела, используя [color=#a4885c]двоеточие (:)[/color], а затем букву отдела, при условии, что на вас надета гарнитура с шифровальным ключом вашего отдела.
 
-  Examine your headset to see the department channels available to you.
+  Осмотрите свою гарнитуру, чтобы увидеть доступные вам каналы.
 
 <Box>
   <GuideEntityEmbed Entity="ClothingHeadsetEngineering"/>
 </Box>
 
-  Examining a default engineering headset would show you the prefixes for the [color=#32cd32]Common[/color] and [color=#f37746]Engineering[/color]
-  channels.
+  Осмотр стандартной инженерной гарнитуры покажет вам префиксы
+  каналов [color=#32cd32]Общий[/color] и [color=#f37746]Инженерный[/color].
   
-  It is also possible to use [color=#a4885c]:h[/color]. This hotkey will automatically default to your department radio channel. For an example if you're Captain, then [color=#a4885c]:h[/color] will default to [color=#a4885c]:c[/color]
+  Также можно использовать [color=#a4885c]:h[/color]. Эта горячая клавиша автоматически переключается на канал вашего отдела. Например, если вы Капитан, то [color=#a4885c]:h[/color] по умолчанию соответствует [color=#a4885c]:c[/color].
 
-</Document>
+  </Document>

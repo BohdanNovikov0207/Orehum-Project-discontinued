@@ -1,40 +1,40 @@
 <Document>
-# Researcher SOP
-This is the list of procedures, responsibilities, and duties of the [color=#cc74fc]Noviciate[/color], [color=#cc74fc]Acolyte[/color], and [color=#cc74fc]Mystic[/color] of this station.
+# Регламент исследователя
+Это перечень процедур, полномочий и обязанностей [color=#cc74fc]Новиция[/color], [color=#cc74fc]Аколита[/color] и [color=#cc74fc]Мистика[/color] на этой станции.
 
-For clarification, 'Researcher' is used as a catch-all-phrase for Noviciate, Acolyte, and Mystic.
+Для ясности: «исследователь» используется как обобщающее обозначение Новиция, Аколита и Мистика.
 
 <ColorBox>
   <Box>
-    For the purposes of Alert Escalation: Treat higher alerts as if they are still on the previous alert level. (Yellow Alert is Blue Alert if it was Blue Alert prior.) Furthermore, treat Delta, Gamma, Epsilon, and Violet Alert as Red Alert.
+    Для целей эскалации тревоги: воспринимайте повышение уровня как продолжение предыдущего уровня (например, Жёлтая тревога считается Синей, если до этого была Синяя). Кроме того, уровни Дельта, Гамма, Эпсилон и Фиолетовый приравниваются к Красной тревоге.
   </Box>
 </ColorBox>
 
-## Green Alert
-1. Researchers are not permitted to bring grenades, harmful chemicals, nor Toxin bombs outside of the Epistemics Department.
-<Box>[bullet/]Exceptions for the Toxin bombs if being handed over to the Cargo Department for Salvaging operations.</Box>
+## Зелёная тревога
+1. Исследователям запрещено выносить из отдела эпистемики гранаты, опасные химикаты и токсин-бомбы.
+<Box>[bullet/]Исключение: токсин-бомбы, если их передают в Отдел снабжения для сальваж-операций.</Box>
 
-2. Researchers should give a warning over the Commons Channel and Epistemics Channel before generating an anomaly.
+2. Перед генерацией аномалии исследователи должны предупредить по общему каналу и в канале эпистемики.
 
-3. Researchers are not permitted to create AI Console Boards nor AI Control Boards without permission from Mystagogue and/or Captain.
+3. Исследователям запрещено создавать платы консоли ИИ и платы управления ИИ без разрешения Мистагога и/или Капитана.
 
-## Blue Alert
-1. Researchers are not permitted to bring harmful chemicals outside of the Epistemics Department.
+## Синяя тревога
+1. Исследователям запрещено выносить опасные химикаты за пределы отдела эпистемики.
 
-2. Researchers should give a warning over the Commons Channel and Epistemics Channel before generating an anomaly.
+2. Перед генерацией аномалии исследователи должны предупредить по общему каналу и в канале эпистемики.
 
-3. Researchers are permitted to bring grenades outside of the Epistemics Department, but must justify their uses.
+3. Исследователям разрешается выносить гранаты за пределы отдела эпистемики, но необходимо обосновать их использование.
 
-4. Researchers are permitted to bring Toxin bombs outside of the Epistemics Department, but only to deliver to Armory and/or Cargo Department for Salvage operations.
+4. Исследователям разрешается выносить токсин-бомбы за пределы отдела эпистемики, но только для передачи в Арсенал и/или Отдел снабжения для сальваж-операций.
 
-## Red Alert
-1. All Guidelines from [color=#388c34]Green Alert[/color] and [color=#1b67a5]Blue Alert[/color] carry over. No special guidelines in [color=#ba292c]Red Alert[/color].
+## Красная тревога
+1. Все правила из [color=#388c34]Зелёной тревоги[/color] и [color=#1b67a5]Синей тревоги[/color] сохраняются. Отдельных положений для [color=#ba292c]Красной тревоги[/color] нет.
 
-## White Alert
-1. The Researcher is to leave the Epistemics Department and assist the Mantis, Mystagogue, and other Epistemics personnel in finding psionic users and lowering the glimmer levels.
+## Белая тревога
+1. Исследователь должен покинуть отдел эпистемики и помогать Мантису, Мистагогу и остальному персоналу эпистемики в поиске псиоников и понижении уровней Глиммера.
 
-2. The Researcher is to ensure that no other personnel are in the Epistemics area in case of a glimmer overload resulting in an explosion in the Epistemics area.
+2. Исследователь должен обеспечить отсутствие посторонних в зоне эпистемики на случай перегрузки Глиммера, способной вызвать взрыв.
 
-3. The Researcher is to take commands from the Mystagogue and Mantis during this time.
+3. Исследователь в этот период подчиняется Мистагогу и Мантису.
 
 </Document>

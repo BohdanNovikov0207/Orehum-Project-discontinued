@@ -1,15 +1,15 @@
 <Document>
-  # Fires & Space
+  # Пожары и космос
 
-  Fires and spacings are an inevitability due to the highly flammable plasma gas and the endless vacuum of space present in and around the station, so it's important to know how to manage them.
+  На станциях с легко воспламеняющейся плазмой и вечным вакуумом вокруг пожары и разгерметизации неизбежны. Важно уметь с ними справляться.
 
-  ## Spacing
-  Space is arguably the easier of the two to handle.
-  While it does render an area uninhabitable, it can be trivially solved by simply sealing the hole that resulted in the vacuum. After that, assuming distro vents and pipes have not been destroyed in some unfortunate accident, the room will slowly begin to repressurize.
-  Be aware; active spacings will slowly siphon the air out of the station's air reserves. If you find it impossible to fix structural damage due to some other hazard, make sure to limit the airflow to that room. (Currently only half-valid due to the Gas Miners infinitely replenishing most of the useful gases)
+  ## Разгерметизация
+  В некотором смысле это проще, чем пожар.
+  Хотя зона становится непригодной для жизни, проблема решается банально — заделайте пробоину, из‑за которой возник вакуум. После этого, если венты и трубы дистросети не разрушены, помещение начнёт медленно репрессуризоваться.
+  Учитывайте: активная разгерметизация постепенно высасывает воздух из резервов станции. Если невозможно устранить разрушения из‑за других угроз, ограничьте воздухообмен с этой комнатой. (Сейчас это утверждение лишь наполовину верно, так как Газодобытчики бесконечно пополняют большинство полезных газов.)
 
-  ## Fires
-  Fires can be dealt with through a multitude of ways, but some of the most effective methods include:
-    - Spacing the enflamed area if possible. This will destroy all of the gasses in the room, which may be a problem if you're already straining life support.
-    - Dumping a Frezon canister into the enflamed area. This will ice over the flames and halt any ongoing reaction, provided you use enough Frezon. Additionally, this does not result in destruction of material, so you can simply scrub the room afterwards.
+  ## Пожары
+  Способов борьбы множество, но наиболее эффективны:
+    - По возможности открыть помещение в космос. Это уничтожит все газы в комнате, что нежелательно, если система жизнеобеспечения уже на пределе.
+    - Внести в очаг канистру с фрезоном. Достаточный объём фрезона «заморозит» пламя и остановит реакцию. При этом материалы не уничтожаются, и комнату можно просто очистить скрубберами.
 </Document>
